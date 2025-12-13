@@ -1,11 +1,12 @@
 # Wails Go Starter Template
 
 A simple starter template for [Wails](https://wails.io/) projects that lets you run the development environment with a single command.  
-Ideal for quickly bootstrapping desktop applications using Go + TypeScript + Vite + Tailwind CSS.
+Ideal for quickly bootstrapping desktop applications using Go + React + TypeScript + Vite + Tailwind CSS.
 
 ## Features
 
-- Single command to run `wails dev`
+- JUST clone repo and `wails dev` to use
+
 - Preconfigured frontend with Vite + TypeScript
 - Tailwind CSS out of the box
 - Standardized project structure
@@ -27,4 +28,4 @@ Make sure you have installed:
 
 - Go \(>= 1.22\)
 - Node.js and npm / pnpm / yarn
-- Wails CLI:
+- Wails CLI
